@@ -1,0 +1,5 @@
+options==1.4.10
+pytest==7.2.1
+requests==2.28.2
+selenium==4.8.0
+webdriver-manager==3.8.5
